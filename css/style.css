@@ -74,12 +74,12 @@ header-text h1{
 }
 .about-col1{
     flex-basis: 35%;
-    margin-left: 2%;
+    margin-left: 0;
     margin-bottom: 10%;
 }
 about-col1 img{
     width: 100%;  
-    border-radius: 15px;
+    border-radius: 25px;
     
 }
 .about-col2{
