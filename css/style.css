@@ -74,11 +74,9 @@ header-text h1{
 }
 .about-col1{
     flex-basis: 35%;
-    margin-left: 0;
     margin-bottom: 10%;
 }
 about-col1 img{
-    margin-right: 1%;
     width: 100%;  
     border-radius: 25px;
     
