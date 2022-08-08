@@ -27,7 +27,7 @@ nav{
     flex-wrap: wrap;
 }
 .logo{
-    width: 395px;
+    width: 398px;
     text-decoration: none;
 }
 nav ul li{
@@ -56,12 +56,12 @@ nav ul li a:hover::after{
 }
 .header-text{
     margin-left: 3%;
-    margin-top: 20%;
+    margin-top: 10%;
     font-size: 30px;
 }
 header-text h1{
     font-size: 50px;
-    margin-top: 15%;
+    margin-top: 10%;
 }
 .header-text h1 span{
     color: #ff004f;
