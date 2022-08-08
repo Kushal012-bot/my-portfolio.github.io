@@ -29,6 +29,7 @@ nav{
 .logo{
     width: 398px;
     text-decoration: none;
+    margin-top: 2%;
 }
 nav ul li{
     display: inline-block;
@@ -77,6 +78,7 @@ header-text h1{
     margin-bottom: 10%;
 }
 about-col1 img{
+    margin-left:1%;
     width: 90%;  
     border-radius: 25px;
 }
