@@ -27,9 +27,9 @@ nav{
     flex-wrap: wrap;
 }
 .logo{
-    width: 398px;
+    width: 400px;
     text-decoration: none;
-    margin-top: 10%;
+    margin-top: 5%;
 }
 nav ul li{
     display: inline-block;
