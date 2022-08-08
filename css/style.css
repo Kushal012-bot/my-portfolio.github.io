@@ -76,7 +76,7 @@ header-text h1{
     flex-basis: 35%;
     margin-bottom: 10%;
 }
-about-col1 img{
+.about-col1 img{
     width: 80%;  
     border-radius: 25px;
 }
@@ -328,7 +328,7 @@ nav .fa-solid{
     .header-text h1{
         font-size: 30px;
     }
-    nav.fa-solid{
+    nav .fa-solid{
         display: block;
         font-size: 25px ;
     }
