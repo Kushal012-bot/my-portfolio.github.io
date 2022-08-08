@@ -27,7 +27,7 @@ nav{
     flex-wrap: wrap;
 }
 .logo{
-    width: 370px;
+    width: 385px;
     text-decoration: none;
 }
 nav ul li{
@@ -79,7 +79,7 @@ header-text h1{
 about-col1 img{
     width: 100%;  
     border-radius: 25px;
-    
+    margin-right: 30%
 }
 .about-col2{
     flex-basis: 35%;
