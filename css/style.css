@@ -319,9 +319,6 @@ nav .fa-solid{
     display: none;
 }
 @media only screen and (max-device-width: 600px){
-    .logo{
-        background-image:url(../images/olkj900.png);
-    }
     #header{
        background-image:url(../images/olkj_1080x1920.png);
     .header-text{
