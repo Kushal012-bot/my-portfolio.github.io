@@ -14,7 +14,7 @@ body {
 #header {
     width: 100%;
     height: 140vh;
-    background-image:url(../images/olkj.png);
+    background-image:url(/images/olkj.png);
     background-size: cover;
 }
 .container{
@@ -27,7 +27,7 @@ nav{
     flex-wrap: wrap;
 }
 .logo{
-    width: 398px;
+    width: 400px;
     text-decoration: none;
 }
 nav ul li{
@@ -56,12 +56,12 @@ nav ul li a:hover::after{
 }
 .header-text{
     margin-left: 3%;
-    margin-top: 10%;
+    margin-top: 20%;
     font-size: 30px;
 }
 header-text h1{
-    font-size: 50px;
-    margin-top: 10%;
+    font-size: 60px;
+    margin-top: 20%;
 }
 .header-text h1 span{
     color: #ff004f;
@@ -74,11 +74,13 @@ header-text h1{
 }
 .about-col1{
     flex-basis: 35%;
+    margin-left: 0;
     margin-bottom: 10%;
 }
-.about-col1 img{
-    width: 80%;  
-    border-radius: 25px;
+about-col1 img{
+    width: 100%;  
+    border-radius: 15px;
+    
 }
 .about-col2{
     flex-basis: 35%;
@@ -321,6 +323,7 @@ nav .fa-solid{
 @media only screen and (max-device-width: 600px){
     #header{
        background-image:url(/images/olkj_1080x1920.png);
+    }
     .header-text{
         margin-top: 100%;
         font-size: 16px;
@@ -357,7 +360,7 @@ nav .fa-solid{
         font-size: 40px;
     }
     .about-col1,.about-col2{
-        flex-basis: 100%;
+        flex-basis: 1005;
     }
     .about-col1{
         margin-bottom: 30px;
