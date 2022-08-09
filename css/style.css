@@ -338,6 +338,7 @@ nav .fa-solid{
     nav.fas{
         display: block;
         font-size: 25px ;
+    }
     nav ul{
         background: #ff004f;
         position: fixed;
@@ -363,7 +364,7 @@ nav .fa-solid{
         font-size: 40px;
     }
     .about-col1,.about-col2{
-        flex-basis: 1005;
+        flex-basis: 100%;
     }
     .about-col1{
         margin-bottom: 30px;
